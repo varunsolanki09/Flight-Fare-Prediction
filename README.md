@@ -13,11 +13,12 @@ If Python is not yet installed on your machine, you can download the latest vers
 Pip (Python's package manager)
 
 If pip is not already installed or needs to be updated, you can upgrade it by running the following command:
-
+'''
 bash
 Copy
 Edit
 python -m pip install --upgrade pip
+'''
 📦 Installing Dependencies
 Once Python and pip are ready, install the required Python libraries by running:
 
