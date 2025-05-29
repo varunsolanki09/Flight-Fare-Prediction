@@ -1,4 +1,4 @@
-Flight Fare Prediction Web Application
+#Flight Fare Prediction Web Application
 🚀 Overview
 This is a Flask-based web application designed to predict flight ticket fares based on user inputs. By leveraging a machine learning model trained on historical flight fare data, the app provides quick and accurate fare predictions. Whether you're planning a trip or just curious about flight prices, this app gives you a reliable estimate based on relevant factors such as destination, departure date, and more.
 
