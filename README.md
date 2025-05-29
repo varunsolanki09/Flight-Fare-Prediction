@@ -14,18 +14,14 @@ Pip (Python's package manager)
 
 If pip is not already installed or needs to be updated, you can upgrade it by running the following command:
 ~~~
-bash
-Copy
-Edit
 python -m pip install --upgrade pip
 ~~~
 📦 Installing Dependencies
 Once Python and pip are ready, install the required Python libraries by running:
 
-bash
-Copy
-Edit
+~~~
 pip install -r requirements.txt
+~~~
 This will install all necessary dependencies for the app, including Flask and any other libraries used in the machine learning model.
 
 ⚡ Usage
