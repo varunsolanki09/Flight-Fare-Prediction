@@ -24,20 +24,11 @@ pip install -r requirements.txt
 ~~~
 This will install all necessary dependencies for the app, including Flask and any other libraries used in the machine learning model.
 
-⚡ Usage
-Clone the repository to your local machine:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/flight-fare-prediction.git
-cd flight-fare-prediction
 Run the Flask application:
-
-bash
-Copy
-Edit
+~~~
 python app.py
+~~~
 Open your browser and navigate to http://127.0.0.1:5000/ to interact with the app. You’ll be able to input features such as the departure date, source, destination, and other relevant details to get a predicted flight fare.
 
 📊 How It Works
